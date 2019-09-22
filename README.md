@@ -18,7 +18,8 @@ Python, Numpy, Pandas, Scikit, Seaborn, Matplot libraries, & Jupyter Notebook ar
 
 ## Help
 
-Check comments for what the functions do
+Check comments for what the program does
+Currently Supervised learning methods are uploaded
 
 ## Authors
 
@@ -28,7 +29,7 @@ Cem Gursan
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Initial Release - Supervised Learning - Regressions
 
 ## License
 
